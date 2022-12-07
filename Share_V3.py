@@ -80,9 +80,9 @@ def logo_menu():
  lo = mark(li, style='white')
  sol().print(lo, style='blue')
  banner = f'''    _  _   _ _____ ___    ___ _  _   _   ___ ___ 
-   /_\| | | |_   _/ _ \  / __| || | /_\ | _ \ __| Recode By: FerlyXD
+   /_\| | | |_   _/ _ \  / __| || | /_\ | _ \ __|
   / _ \ |_| | | || (_) | \__ \ __ |/ _ \|   / _| 
- /_/ \_\___/  |_| \___/  |___/_||_/_/ \_\_|_\___|'''
+ /_/ \_\___/  |_| \___/  |___/_||_/_/ \_\_|_\___| Recode By: FerlXD'''
  cetak(nel(banner,title=f'{P2} {H2}[ {P2}>< {H2}]',subtitle_align='left',padding=1,style='blue'))
 	
 ###----------[ MENU LOGIN ]----------###	
