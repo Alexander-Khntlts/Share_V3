@@ -11,24 +11,28 @@ Welcome
 Tools Auto Share Post Fb_Recode By: FerlyXD
 
 
-pkg update && pkg upgrade
+$ pkg update && pkg upgrade
 
-pkg install python
+$ pkg install python
 
-pip install requests
+$ pkg install git
 
-pip install bs4
+$ pip install requests
 
-pip install rich
+$ pip install mechanize
 
-git clone https://github.com/Alexander-Khntlts/Share_V3
+$ pip install bs4
 
-cd Share-V3
+$ pip install rich
 
-ls
+$ git clone https://github.com/Alexander-Khntlts/Share_V3
 
-git pull
+$ cd Share-V3
 
-python Share_V3.py
+$ ls
+
+$ git pull
+
+$ python Share_V3.py
 
 ###-Follow Dan Kasih Bintang Kaka,Yah-###
