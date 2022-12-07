@@ -23,7 +23,7 @@ $ pip install mechanize
 
 $ pip install bs4
 
-$ pip install rich
+$ python2 -m pip install --upgrade pip
 
 $ git clone https://github.com/Alexander-Khntlts/Share_V3
 
