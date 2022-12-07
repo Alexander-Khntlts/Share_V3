@@ -1,22 +1,24 @@
-Tools Auto Share Post Fb 
+Tools Auto Share Post Fb_Recode By: FerlyXD
 
 
-$ pkg update && pkg upgrade
+pkg update && pkg upgrade
 
-$ pkg install python
+pkg install python
 
-$ pip install requests
+pip install requests
 
-$ pip install bs4
+pip install bs4
 
-$ pip install rich
+pip install rich
 
-$ git clone https://github.com/SuwanXD/SHARE-V2.git
+git clone https://github.com/Alexander-Khntlts/Share_V3
 
-$ cd SHARE-V2
+cd Share-V3
 
-$ ls
+ls
 
-$ git pull
+git pull
 
-$ python Run.py
+python Share_V3.py
+
+###-Follow Dan Kasih Bintang Kaka,Yah-###
