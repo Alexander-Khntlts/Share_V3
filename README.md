@@ -17,13 +17,13 @@ $ pkg install python
 
 $ pkg install git
 
+$ python2 -m pip install --upgrade pip
+
 $ pip install requests
 
 $ pip install mechanize
 
 $ pip install bs4
-
-$ python2 -m pip install --upgrade pip
 
 $ git clone https://github.com/Alexander-Khntlts/Share_V3
 
