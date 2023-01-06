@@ -1,7 +1,7 @@
 #-[RECODE_AJA_JANGAN_LUPA_KASIH_BINTANG-#
 #---#---#------[AUTHOR FERLY XD]------#---#---#
 ###----------[ IMPORT LIBRARY ]---------- ###
-import requests, os, re, bs4, calendar, sys, json, time, random, datetime, subprocess, logging, base64,uuid, requests,
+import requests, os, re, bs4, calendar, sys, json, time, random, datetime, subprocess, logging, base64,uuid,
 from datetime import datetime
 from time import sleep
 from time import sleep as jeda
